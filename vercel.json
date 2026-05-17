@@ -1,14 +1,14 @@
 {
-    "redirects": [
-        {
-            "source": "/home",
-            "destination": "/",
-            "permanent": true
-        },
-        {
-            "source": "/:path*",
-            "destination": "/",
-            "permanent": false
-        }
-    ]
+  "redirects": [
+    {
+      "source": "/home",
+      "destination": "https://bitcentral.bitsathy.in/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://bitcentral.bitsathy.in/",
+      "permanent": false
+    }
+  ]
 }
